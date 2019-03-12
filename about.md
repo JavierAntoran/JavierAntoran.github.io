@@ -5,7 +5,7 @@ permalink: /about/
 redirect_from: "/"
 ---
 
-I'm an MPhil student in Machine Learning at the University of Cambridge supervised by Dr. José Miguel Hernández-Lobato. I'm interested in Bayesian deep learning, deep latent variable models, uncertainty in machine learning and information theory. I graduated from the University of Zaragoza in 2018 with a degree in Telecommunications Engineering (EE/CS). Bellow are links to some of my recent work.
+I'm an MPhil student in Machine Learning at the University of Cambridge under the supervision of Dr. José Miguel Hernández-Lobato. I'm interested in Bayesian deep learning, deep latent variable models, uncertainty in machine learning and information theory. I graduated from the University of Zaragoza in 2018 with a degree in Telecommunications Engineering (EE/CS). Bellow are links to some of my recent work.
 
 ## 2019 
 
