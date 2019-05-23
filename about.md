@@ -11,7 +11,7 @@ I'm an MPhil student in Machine Learning at the University of Cambridge under th
 
 **Uncertainty in Bayesian Neural Networks**\\
 **J. Antorán** and E. Markou.\\
-*To be presented at: Workshop on The Mathematics of Deep Learning and Data Science, The Isaac Newton Institute for Mathematical Sciences, Cambridge.* 2019.\\
+*Presented at: Workshop on The Mathematics of Deep Learning and Data Science, The Isaac Newton Institute for Mathematical Sciences, Cambridge.* 2019.\\
 \[[Poster](assets/poster.pdf)\], \[[Code](https://github.com/JavierAntoran/Bayesian-Neural-Networks)\]
 
 ## 2018
