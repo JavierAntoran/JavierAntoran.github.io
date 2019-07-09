@@ -9,10 +9,15 @@ I'm an MPhil student in Machine Learning at the University of Cambridge under th
 
 ## 2019 
 
+**Understanding Uncertainty in Bayesian Neural Networks**\\
+**J. Antorán**\\
+*MPhil Thesis (Ongoing)*\\
+\[[Poster](assets/poster_thesis.pdf)\]
+
 **Uncertainty in Bayesian Neural Networks**\\
 **J. Antorán** and E. Markou.\\
 *Presented at: Workshop on The Mathematics of Deep Learning and Data Science, The Isaac Newton Institute for Mathematical Sciences, Cambridge.* 2019.\\
-\[[Poster](assets/poster.pdf)\], \[[Code](https://github.com/JavierAntoran/Bayesian-Neural-Networks)\]
+\[[Poster](assets/poster_advml.pdf)\], \[[Code](https://github.com/JavierAntoran/Bayesian-Neural-Networks)\]
 
 ## 2018
 
