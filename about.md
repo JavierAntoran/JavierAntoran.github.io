@@ -5,7 +5,7 @@ permalink: /about/
 redirect_from: "/"
 ---
 
-I am an incoming PhD student in Machine Learning at the University of Cambridge under the supervision of Dr. José Miguel Hernández-Lobato. I'm interested in Bayesian deep learning, representation learning, uncertainty in machine learning and information theory. I graduated from the University of Zaragoza in 2018 with an honorary distinction ("premio extraordinario") in Telecommunications Engineering (EE/CS). I was awarded an MPhil in Machine Learning by the University of Cambridge in 2019. I also do freelance engineering consulting and am a co-founder of [arisetech.es](http://arisetech.es). Bellow are links to some of my recent work.
+I am an incoming PhD student in Machine Learning at the University of Cambridge under the supervision of Dr. José Miguel Hernández-Lobato. I'm interested in Bayesian deep learning, representation learning, uncertainty in machine learning and information theory. I graduated from the University of Zaragoza in 2018 with an honorary distinction ("premio extraordinario") in Telecommunications Engineering (EE/CS). I was awarded an MPhil in Machine Learning with distinction by the University of Cambridge in 2019. I also do freelance engineering consulting and am a co-founder of [arisetech.es](http://arisetech.es). Bellow are links to some of my recent work.
 
 ## 2019 
 
