@@ -12,7 +12,7 @@ I am an incoming PhD student in Machine Learning at the University of Cambridge 
 **Understanding Uncertainty in Bayesian Neural Networks**\\
 **J. Antorán**\\
 *MPhil Thesis*\\
-\[[Poster](assets/poster_thesis.pdf)\]
+\[[Thesis](assets/mphil_thesis_Javier_Antoran.pdf)\]\[[Poster](assets/poster_thesis.pdf)\]
 
 **Uncertainty in Bayesian Neural Networks**\\
 **J. Antorán** and E. Markou.\\
