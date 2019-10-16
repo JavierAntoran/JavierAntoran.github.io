@@ -21,7 +21,7 @@ I am a PhD student in Machine Learning at the University of Cambridge under the 
 
 ## 2018
 
-**Disentangling in Variational Autoencoders with Natural clustering**\\
+**Disentangling in Variational Autoencoders with Natural Clustering**\\
 **J. Antorán** and A. Miguel.\\
 *Successfully defended Bachelor's Thesis at the University of Zaragoza (9.8/10, Honorary Distinction).*\\
 *Accepted as an oral presentation at the 18th IEEE International Conference on Machine Learning and Applications - ICMLA 2019, Boca Raton, Florida, USA.* 2019.\\
