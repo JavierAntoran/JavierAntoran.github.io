@@ -16,7 +16,7 @@ I am a PhD student in Machine Learning at the University of Cambridge under the 
 
 **Uncertainty in Bayesian Neural Networks**\\
 **J. Antorán** and E. Markou.\\
-*Presented at: Workshop on The Mathematics of Deep Learning and Data Science, The Isaac Newton Institute for Mathematical Sciences, Cambridge.* 2019.\\
+*Presented poster at the Workshop on The Mathematics of Deep Learning and Data Science, The Isaac Newton Institute for Mathematical Sciences, Cambridge, UK.* 2019.\\
 \[[Poster](assets/poster_advml.pdf)\], \[[Code](https://github.com/JavierAntoran/Bayesian-Neural-Networks)\]
 
 ## 2018
@@ -24,6 +24,7 @@ I am a PhD student in Machine Learning at the University of Cambridge under the 
 **Disentangling in Variational Autoencoders with Natural clustering**\\
 **J. Antorán** and A. Miguel.\\
 *Successfully defended Bachelor's Thesis at the University of Zaragoza (9.8/10, Honorary Distinction).*\\
+*Accepted as an oral presentation at the 18th IEEE International Conference on Machine Learning and Applications - ICMLA 2019, Boca Raton, Florida, USA.* 2019.\\
 \[[Paper](https://arxiv.org/pdf/1901.09415.pdf)\], \[[Thesis (Spanish)](https://deposita.unizar.es/TAZ/EINA/2018/42174/TAZ-TFG-2018-2597.pdf)\]
 
 **FELIX DAQ Integration Test Tool for the ATLAS experiment.**\\
