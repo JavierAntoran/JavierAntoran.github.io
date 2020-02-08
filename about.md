@@ -12,9 +12,9 @@ I am a PhD student in Machine Learning at the [University of Cambridge](http://m
 **Understanding Uncertainty in Bayesian Neural Networks**\\
 **J. Antorán**\\
 *MPhil Thesis (Awarded Distinction)*\\
-\[[Thesis](assets/mphil_thesis_Javier_Antoran.pdf)\], \[[Poster](assets/poster_thesis.pdf)\]
+\[[Thesis](assets/mphil_thesis_Javier_Antoran.pdf)\], \[[bibtex](assets/antoran2019understanding.bib)\], \[[Poster](assets/poster_thesis.pdf)\] 
 
-**Uncertainty in Bayesian Neural Networks**\\
+**Uncertainty in Bayesian Neural Networks (github repo)**\\
 **J. Antorán** and E. Markou.\\
 *Presented poster at the Workshop on The Mathematics of Deep Learning and Data Science, The Isaac Newton Institute for Mathematical Sciences, Cambridge, UK.* 2019.\\
 \[[Poster](assets/poster_advml.pdf)\], \[[Code](https://github.com/JavierAntoran/Bayesian-Neural-Networks)\]
@@ -25,9 +25,11 @@ I am a PhD student in Machine Learning at the [University of Cambridge](http://m
 **J. Antorán** and A. Miguel.\\
 *Successfully defended Bachelor's Thesis at the University of Zaragoza (9.8/10, Honorary Distinction).*\\
 *Accepted as an oral presentation at the 18th IEEE International Conference on Machine Learning and Applications - ICMLA 2019, Boca Raton, Florida, USA.* 2019.\\
-\[[Paper](https://arxiv.org/pdf/1901.09415.pdf)\], \[[Thesis (Spanish)](https://deposita.unizar.es/TAZ/EINA/2018/42174/TAZ-TFG-2018-2597.pdf)\]
+\[[Paper](https://arxiv.org/pdf/1901.09415.pdf)\], \[[bibtex](assets/antoran2019disentangling.bib)\], \[[Thesis (Spanish)](https://deposita.unizar.es/TAZ/EINA/2018/42174/TAZ-TFG-2018-2597.pdf)\]
 
-**FELIX DAQ Integration Test Tool for the ATLAS experiment.**\\
+**FELIX DAQ Integration Test Tool for the ATLAS experiment at CERN.**\\
 **J. Antorán** and J. Schumacher.\\
 *Work done during a Summer studentship at CERN.*\\
-\[[Technical Report](http://cds.cern.ch/record/2639275/files/javiercabiscol.pdf)\]
+\[[Technical Report](http://cds.cern.ch/record/2639275/files/javiercabiscol.pdf)\], \[[bibtex](http://cds.cern.ch/record/2639275/export/hx?ln=en)\]
+
+
