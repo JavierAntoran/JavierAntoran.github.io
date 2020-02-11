@@ -10,7 +10,7 @@ I am a PhD student in Machine Learning at the [University of Cambridge](http://m
 ## 2020
 
 **Variational Depth Search in ResNets**\\
-**J. Antorán** and J. U. Allingham.\\
+**J. Antorán** and J. U. Allingham and J. M. Hernández-Lobato.\\
 \[[Paper](https://arxiv.org/pdf/2002.02797.pdf)\], \[[bibtex](assets/antoran2020variational.bib)\]
 
 ## 2019 
