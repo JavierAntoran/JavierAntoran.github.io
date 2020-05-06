@@ -11,7 +11,7 @@ I am a PhD student in Machine Learning at the [University of Cambridge](http://m
 
 **Variational Depth Search in ResNets**\\
 **J. Antorán** and J. U. Allingham and J. M. Hernández-Lobato.\\
-\[[Paper](https://arxiv.org/pdf/2002.02797.pdf)\], \[[bibtex](assets/antoran2020variational.bib)\], \[[code](https://github.com/cambridge-mlg/arch_uncert)\]
+\[[Paper](https://arxiv.org/pdf/2002.02797.pdf)\], \[[Poster](assets/arch_uncert_poster.pdf)\], \[[bibtex](assets/antoran2020variational.bib)\], \[[code](https://github.com/cambridge-mlg/arch_uncert)\]
 
 ## 2019 
 
