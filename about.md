@@ -9,8 +9,12 @@ I am a PhD student in Machine Learning at the [University of Cambridge](http://m
 
 ## 2020
 
+**Getting a CLUE: A Method for Explaining Uncertainty Estimates**\\
+**J. Antorán**, U. Bhatt, T. Adel, A. Weller and J. M. Hernández-Lobato.\\
+\[[Paper](https://arxiv.org/pdf/2006.06848.pdf)\], \[[bibtex](assets/antoran2020getting.bib)\]
+
 **Variational Depth Search in ResNets**\\
-**J. Antorán** and J. U. Allingham and J. M. Hernández-Lobato.\\
+**J. Antorán**, J. U. Allingham and J. M. Hernández-Lobato.\\
 \[[Paper](https://arxiv.org/pdf/2002.02797.pdf)\], \[[Poster](assets/arch_uncert_poster.pdf)\], \[[bibtex](assets/antoran2020variational.bib)\], \[[code](https://github.com/cambridge-mlg/arch_uncert)\]
 
 ## 2019 
