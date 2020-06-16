@@ -9,6 +9,10 @@ I am a PhD student in Machine Learning at the [University of Cambridge](http://m
 
 ## 2020
 
+**Depth Uncertainty in Neural Networks**\\
+**J. Antorán**, J. U. Allingham and J. M. Hernández-Lobato.\\
+\[[Paper](https://arxiv.org/pdf/2006.08437.pdf)\], \[[bibtex](assets/antoran2020depth.bib)\]
+
 **Getting a CLUE: A Method for Explaining Uncertainty Estimates**\\
 **J. Antorán**, U. Bhatt, T. Adel, A. Weller and J. M. Hernández-Lobato.\\
 \[[Paper](https://arxiv.org/pdf/2006.06848.pdf)\], \[[bibtex](assets/antoran2020getting.bib)\]
