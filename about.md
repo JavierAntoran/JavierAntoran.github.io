@@ -9,8 +9,6 @@ I am a PhD student in Machine Learning at the [University of Cambridge](http://m
 
 ## 2020
 
-https://github.com/cambridge-mlg/DUN
-
 **Depth Uncertainty in Neural Networks**\\
 **J. Antorán**, J. U. Allingham and J. M. Hernández-Lobato.\\
 \[[Paper](https://arxiv.org/pdf/2006.08437.pdf)\], \[[bibtex](assets/antoran2020depth.bib)\], \[[code](https://github.com/cambridge-mlg/DUN)\]
