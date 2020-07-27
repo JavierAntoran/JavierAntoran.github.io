@@ -11,27 +11,27 @@ I am a PhD student in Machine Learning at the [University of Cambridge](http://m
 
 **Depth Uncertainty in Neural Networks**\\
 **J. Antorán**, J. U. Allingham and J. M. Hernández-Lobato.\\
-\[[Paper](https://arxiv.org/pdf/2006.08437.pdf)\], \[[bibtex](assets/antoran2020depth.bib)\], \[[code](https://github.com/cambridge-mlg/DUN)\]
+\[[Paper](https://arxiv.org/pdf/2006.08437.pdf)\], \[[bibtex](assets/bibtex/antoran2020depth.bib)\], \[[code](https://github.com/cambridge-mlg/DUN)\]
 
 **Getting a CLUE: A Method for Explaining Uncertainty Estimates**\\
 **J. Antorán**, U. Bhatt, T. Adel, A. Weller and J. M. Hernández-Lobato.\\
-\[[Paper](https://arxiv.org/pdf/2006.06848.pdf)\], \[[bibtex](assets/antoran2020getting.bib)\]
+\[[Paper](https://arxiv.org/pdf/2006.06848.pdf)\], \[[bibtex](assets/bibtex/antoran2020getting.bib)\]
 
 **Variational Depth Search in ResNets**\\
 **J. Antorán**, J. U. Allingham and J. M. Hernández-Lobato.\\
-\[[Paper](https://arxiv.org/pdf/2002.02797.pdf)\], \[[Poster](assets/arch_uncert_poster.pdf)\], \[[bibtex](assets/antoran2020variational.bib)\], \[[code](https://github.com/cambridge-mlg/arch_uncert)\]
+\[[Paper](https://arxiv.org/pdf/2002.02797.pdf)\], \[[Poster](assets/pdf/arch_uncert_poster.pdf)\], \[[bibtex](assets/bibtex/antoran2020variational.bib)\], \[[code](https://github.com/cambridge-mlg/arch_uncert)\]
 
 ## 2019 
 
 **Understanding Uncertainty in Bayesian Neural Networks**\\
 **J. Antorán**\\
 *MPhil Thesis (Awarded Distinction)*\\
-\[[Thesis](assets/mphil_thesis_Javier_Antoran.pdf)\], \[[bibtex](assets/antoran2019understanding.bib)\], \[[Poster](assets/poster_thesis.pdf)\] 
+\[[Thesis](assets/pdf/mphil_thesis_Javier_Antoran.pdf)\], \[[bibtex](assets/bibtex/antoran2019understanding.bib)\], \[[Poster](assets/pdf/poster_thesis.pdf)\] 
 
 **Uncertainty in Bayesian Neural Networks (github repo)**\\
 **J. Antorán** and E. Markou.\\
 *Presented poster at the Workshop on The Mathematics of Deep Learning and Data Science, The Isaac Newton Institute for Mathematical Sciences, Cambridge, UK.* 2019.\\
-\[[Poster](assets/poster_advml.pdf)\], \[[Code](https://github.com/JavierAntoran/Bayesian-Neural-Networks)\]
+\[[Poster](assets/pdf/poster_advml.pdf)\], \[[Code](https://github.com/JavierAntoran/Bayesian-Neural-Networks)\]
 
 ## 2018
 
@@ -39,7 +39,7 @@ I am a PhD student in Machine Learning at the [University of Cambridge](http://m
 **J. Antorán** and A. Miguel.\\
 *Successfully defended Bachelor's Thesis at the University of Zaragoza (9.8/10, Honorary Distinction).*\\
 *Accepted as an oral presentation at the 18th IEEE International Conference on Machine Learning and Applications - ICMLA 2019, Boca Raton, Florida, USA.* 2019.\\
-\[[Paper](https://arxiv.org/pdf/1901.09415.pdf)\], \[[bibtex](assets/antoran2019disentangling.bib)\], \[[Thesis (Spanish)](https://deposita.unizar.es/TAZ/EINA/2018/42174/TAZ-TFG-2018-2597.pdf)\]
+\[[Paper](https://arxiv.org/pdf/1901.09415.pdf)\], \[[bibtex](assets/bibtex/antoran2019disentangling.bib)\], \[[Thesis (Spanish)](https://deposita.unizar.es/TAZ/EINA/2018/42174/TAZ-TFG-2018-2597.pdf)\]
 
 **FELIX DAQ Integration Test Tool for the ATLAS experiment at CERN.**\\
 **J. Antorán** and J. Schumacher.\\

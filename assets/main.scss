@@ -1,0 +1,27 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+table.publication {
+	td {
+		border: none;
+		padding: 0;
+		color: #111;
+	}
+
+	td:first-child{
+		width:25%;
+		text-align: leftL;
+		img  {
+			max-height:6.25rem;
+		}
+	}
+	td:nth-child(2){
+		width:75%;
+	}
+
+
+	border: none;
+	
+}
