@@ -5,7 +5,7 @@ permalink: /talks/
 # redirect_from: "/"
 ---
 
-My most recent talks together with slides are found below.
+My most recent talks, together with slides, are found below.
 
 ## 2020
 
