@@ -11,6 +11,7 @@ I am a PhD student in Machine Learning at the [University of Cambridge](http://m
 
 **Depth Uncertainty in Neural Networks**\\
 **J. Antorán**, J. U. Allingham and J. M. Hernández-Lobato.\\
+*34th Conference on Neural Information Processing Systems (NeurIPS), Vancouver, Canada.* 2020.\\
 \[[Paper](https://arxiv.org/pdf/2006.08437.pdf)\], \[[bibtex](assets/bibtex/antoran2020depth.bib)\], \[[code](https://github.com/cambridge-mlg/DUN)\]
 
 **Getting a CLUE: A Method for Explaining Uncertainty Estimates**\\
