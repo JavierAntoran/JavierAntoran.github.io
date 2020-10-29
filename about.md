@@ -9,6 +9,10 @@ I am a PhD student in Machine Learning at the [University of Cambridge](http://m
 
 ## 2020
 
+**Expressive yet Tractable Bayesian Deep Learning via Subnetwork Inference**\\
+E. Daxberger, E. Nalisnick, J. U. Allingham, **J. Antorán** and J. M. Hernández-Lobato.\\
+\[[Paper](https://arxiv.org/abs/2010.14689)\]
+
 **Depth Uncertainty in Neural Networks**\\
 **J. Antorán**, J. U. Allingham and J. M. Hernández-Lobato.\\
 *34th Conference on Neural Information Processing Systems (NeurIPS), Vancouver, Canada.* 2020.\\
