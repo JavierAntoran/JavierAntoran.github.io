@@ -16,7 +16,7 @@ E. Daxberger, E. Nalisnick, J. U. Allingham, **J. Antorán** and J. M. Hernánde
 **Depth Uncertainty in Neural Networks**\\
 **J. Antorán**, J. U. Allingham and J. M. Hernández-Lobato.\\
 *34th Conference on Neural Information Processing Systems (NeurIPS), Vancouver, Canada.* 2020.\\
-\[[Paper](https://arxiv.org/pdf/2006.08437.pdf)\], \[[bibtex](assets/bibtex/antoran2020depth.bib)\], \[[code](https://github.com/cambridge-mlg/DUN)\]
+\[[Paper](https://arxiv.org/pdf/2006.08437.pdf)\], \[[Poster](assets/pdf/DUN_neurips_poster.pdf)\], \[[bibtex](assets/bibtex/antoran2020depth.bib)\], \[[code](https://github.com/cambridge-mlg/DUN)\]
 
 **Getting a CLUE: A Method for Explaining Uncertainty Estimates**\\
 **J. Antorán**, U. Bhatt, T. Adel, A. Weller and J. M. Hernández-Lobato.\\
