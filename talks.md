@@ -9,6 +9,11 @@ My most recent talks, together with slides, are found below.
 
 ## 2020
 
+**Depth Uncertainty in Neural Networks (AMLAB Edition)**\\
+Talk in the Amsterdam Machine Learning Group ([AMLAB](https://amlab.science.uva.nl/javier-and-james-talk/))'s weekly seminar\\
+\[[Link](https://amlab.science.uva.nl/javier-and-james-talk/)\], \[[Slides](assets/slides/AMLAB_DUN.pdf)\]
+
+
 **ML Interpretability: Beyond Feature Importance**\\
 Talk for [RSQRD-AI](https://www.rsqrdai.org)'s session on Explainable AI\\
 \[[Link](https://www.eventbrite.com/e/rsqrd-ai-explainable-ml-reality-roadmap-tickets-111004162438)\], \[[Slides](assets/slides/R2AI_keynote.pdf)\]
