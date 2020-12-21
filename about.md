@@ -11,11 +11,11 @@ I am a PhD student in Machine Learning at the [University of Cambridge](http://m
 
 **Expressive yet Tractable Bayesian Deep Learning via Subnetwork Inference**\\
 E. Daxberger, E. Nalisnick, J. U. Allingham, **J. Antorán** and J. M. Hernández-Lobato.\\
-\[[Paper](https://arxiv.org/abs/2010.14689)\]
+\[[Paper](https://arxiv.org/abs/2010.14689)\], \[[Poster](assets/pdf/Subnetwork_Inference_BDL_Poster.pdf)\]
 
 **Uncertainty as a Form of Transparency: Measuring, Communicating, and Using Uncertainty**\\
 U. B., Y. Z., **Javier Antorán**, Q. V. L., P. S., R. F., G. G. M., R. K., J. S., O. T., L. N., R. C., A. W. and A. X.\\
-\[[Paper](https://arxiv.org/abs/2011.07586)\], \[[Poster](assets/pdf/Subnetwork_Inference_BDL_Poster.pdf)\]
+\[[Paper](https://arxiv.org/abs/2011.07586)\]
 
 **Depth Uncertainty in Neural Networks**\\
 **J. Antorán**, J. U. Allingham and J. M. Hernández-Lobato.\\
