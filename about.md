@@ -11,6 +11,7 @@ I am a PhD student in Machine Learning at the [University of Cambridge](http://m
 
 **Expressive yet Tractable Bayesian Deep Learning via Subnetwork Inference**\\
 E. Daxberger, E. Nalisnick, J. U. Allingham, **J. Antorán** and J. M. Hernández-Lobato.\\
+*3rd Symposium on Advances in Approximate Bayesian Inference*, 2020
 \[[Paper](https://arxiv.org/abs/2010.14689)\], \[[Poster](assets/pdf/Subnetwork_Inference_BDL_Poster.pdf)\]
 
 **Uncertainty as a Form of Transparency: Measuring, Communicating, and Using Uncertainty**\\
