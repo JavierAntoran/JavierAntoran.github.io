@@ -11,7 +11,7 @@ I am a PhD student in Machine Learning at the [University of Cambridge](http://m
 
 **Expressive yet Tractable Bayesian Deep Learning via Subnetwork Inference**\\
 E. Daxberger, E. Nalisnick, J. U. Allingham, **J. Antorán** and J. M. Hernández-Lobato.\\
-*3rd Symposium on Advances in Approximate Bayesian Inference*, 2020.\\
+*Contributed talk at 3rd Symposium on Advances in Approximate Bayesian Inference*, 2020.\\
 \[[Paper](https://arxiv.org/abs/2010.14689)\], \[[Poster](assets/pdf/Subnetwork_Inference_BDL_Poster.pdf)\]
 
 **Uncertainty as a Form of Transparency: Measuring, Communicating, and Using Uncertainty**\\
@@ -29,7 +29,7 @@ U. B., Y. Z., **Javier Antorán**, Q. V. L., P. S., R. F., G. G. M., R. K., J. S
 
 **Variational Depth Search in ResNets**\\
 **J. Antorán**, J. U. Allingham and J. M. Hernández-Lobato.\\
-*Presented at 1st Workshop on Neural Architecture Search at ICLR* 2020.\\
+*Contributed talk at 1st Workshop on Neural Architecture Search at ICLR* 2020.\\
 \[[Paper](https://arxiv.org/pdf/2002.02797.pdf)\], \[[Poster](assets/pdf/arch_uncert_poster.pdf)\], \[[bibtex](assets/bibtex/antoran2020variational.bib)\], \[[code](https://github.com/cambridge-mlg/arch_uncert)\]
 
 ## 2019 
