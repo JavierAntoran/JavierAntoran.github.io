@@ -9,8 +9,13 @@ My most recent talks, together with slides, are found below.
 
 ## 2021
 
+**Getting a CLUE: A Method for Explaining Uncertainty Estimates (CCAIM Showcase)**\\
+Research showcase talk at the Cambridge Center for AI in Medicine (CCAIM)\\
+\[[Link](https://www.eventbrite.co.uk/e/ccaim-seminar-series-professor-isaac-zak-kohane-tickets-132944198677#)\], \[[Slides](assets/slides/CCAIM_CLUE_v2.pdf)\]
+
+
 **Inference in Stochastic Processes**\\
-TMachine Learning Reading Group Talk at the Cambridge University Engineering Department, UK\\
+Machine Learning Reading Group Talk at the Cambridge University Engineering Department, UK\\
 \[[Link](http://talks.cam.ac.uk/talk/index/156730)\], \[[Slides](assets/slides/Reading_Group_24_February_2021.pdf)\]
 
 
