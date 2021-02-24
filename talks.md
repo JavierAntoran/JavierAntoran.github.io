@@ -7,6 +7,13 @@ permalink: /talks/
 
 My most recent talks, together with slides, are found below.
 
+## 2021
+
+**Inference in Stochastic Processes**\\
+TMachine Learning Reading Group Talk at the Cambridge University Engineering Department, UK\\
+\[[Link](http://talks.cam.ac.uk/talk/index/156730)\], \[[Slides](assets/slides/Reading_Group_24_February_2021.pdf)\]
+
+
 ## 2020
 
 **Depth Uncertainty in Neural Networks (AMLAB Edition)**\\
