@@ -11,7 +11,7 @@ My most recent talks, together with slides, are found below.
 
 **Getting a CLUE: A Method for Explaining Uncertainty Estimates (CCAIM Showcase)**\\
 Research showcase talk at the Cambridge Center for AI in Medicine (CCAIM)\\
-\[[Link](https://www.eventbrite.co.uk/e/ccaim-seminar-series-professor-isaac-zak-kohane-tickets-132944198677#)\], \[[Slides](assets/slides/CCAIM_CLUE_v2.pdf)\]
+\[[Link](https://www.eventbrite.co.uk/e/ccaim-seminar-series-professor-isaac-zak-kohane-tickets-132944198677)\], \[[Slides](assets/slides/CCAIM_CLUE_v2.pdf)\]
 
 
 **Inference in Stochastic Processes**\\
