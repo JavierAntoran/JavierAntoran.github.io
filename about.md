@@ -26,7 +26,7 @@ U. B., **Javier Antorán**, Y. Z., Q. V. L., P. S., R. F., G. G. M., R. K., J. S
 **Getting a CLUE: A Method for Explaining Uncertainty Estimates**\\
 **J. Antorán**, U. Bhatt, T. Adel, A. Weller and J. M. Hernández-Lobato.\\
 *Oral presentation at The Ninth International Conference on Learning Representations ICLR*2021.\\
-\[[Paper](https://arxiv.org/pdf/2006.06848.pdf)\], \[[Poster](assets/pdf/CLUE_poster2.pdf)\], \[[bibtex](assets/bibtex/antoran2020getting.bib)\]
+\[[Paper](https://openreview.net/pdf?id=XSLF1XFq5h)\], \[[Poster](assets/pdf/CLUE_poster2.pdf)\], \[[bibtex](assets/bibtex/antoran2020getting.bib)\], \[[code](https://github.com/cambridge-mlg/CLUE)\]
 
 **Variational Depth Search in ResNets**\\
 **J. Antorán**, J. U. Allingham and J. M. Hernández-Lobato.\\
