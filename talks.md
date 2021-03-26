@@ -9,6 +9,11 @@ My most recent talks, together with slides, are found below.
 
 ## 2021
 
+
+**Tractable Bayesian Deep Learning on Subnetworks**\\
+Seminar at the UCL Centre for Inverse Problems in Imaging\\
+\[[Link](http://cip.cs.ucl.ac.uk/seminars/)\], \[[Slides](assets/slides/subnet_inference_UCL_slides.pdf)\]
+
 **Getting a CLUE: A Method for Explaining Uncertainty Estimates (CCAIM Showcase)**\\
 Research showcase talk at the Cambridge Center for AI in Medicine (CCAIM)\\
 \[[Link](https://www.eventbrite.co.uk/e/ccaim-seminar-series-professor-isaac-zak-kohane-tickets-132944198677)\], \[[Slides](assets/slides/CCAIM_CLUE_v2.pdf)\]
