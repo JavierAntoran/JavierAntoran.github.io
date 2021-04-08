@@ -15,7 +15,7 @@ E. Daxberger, E. Nalisnick, J. U. Allingham, **J. Antorán** and J. M. Hernánde
 \[[Paper](https://arxiv.org/abs/2010.14689)\], \[[Poster](assets/pdf/Subnetwork_Inference_BDL_Poster.pdf)\]
 
 **Uncertainty as a Form of Transparency: Measuring, Communicating, and Using Uncertainty**\\
-U. B., **Javier Antorán**, Y. Z., Q. V. L., P. S., R. F., G. G. M., R. K., J. S., O. T., L. N., R. C., A. W. and A. X.\\
+U. B., **J. Antorán**, Y. Z., Q. V. L., P. S., R. F., G. G. M., R. K., J. S., O. T., L. N., R. C., A. W. and A. X.\\
 *4th AAAI / ACM conference on Artificial Intelligence, Ethics, and Society (AIES)*, 2020.\\
 \[[Paper](https://arxiv.org/abs/2011.07586)\]
 
