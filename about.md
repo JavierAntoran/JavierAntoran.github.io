@@ -11,7 +11,7 @@ I am a PhD student in Machine Learning at the [University of Cambridge](http://m
 
 **Bayesian Deep Learning via Subnetwork Inference**\\
 E. Daxberger, E. Nalisnick, J. U. Allingham, **J. Antorán** and J. M. Hernández-Lobato.\\
-*Contributed talk at 3rd Symposium on Advances in Approximate Bayesian Inference*, 2020.\\
+*38th International Conference on Machine Learning (ICML)*, 2021.\\
 \[[Paper](https://arxiv.org/abs/2010.14689)\], \[[Poster](assets/pdf/Subnetwork_Inference_BDL_Poster.pdf)\]
 
 **Uncertainty as a Form of Transparency: Measuring, Communicating, and Using Uncertainty**\\
@@ -26,7 +26,7 @@ U. B., **J. Antorán**, Y. Z., Q. V. L., P. S., R. F., G. G. M., R. K., J. S., O
 
 **Getting a CLUE: A Method for Explaining Uncertainty Estimates**\\
 **J. Antorán**, U. Bhatt, T. Adel, A. Weller and J. M. Hernández-Lobato.\\
-*Oral presentation at The Ninth International Conference on Learning Representations ICLR*2021.\\
+*Oral presentation at The Ninth International Conference on Learning Representations (ICLR)*, 2021.\\
 \[[Paper](https://openreview.net/pdf?id=XSLF1XFq5h)\], \[[Poster](assets/pdf/CLUE_poster_ICLR_2021.pdf)\], \[[bibtex](assets/bibtex/antoran2020getting.bib)\], \[[code](https://github.com/cambridge-mlg/CLUE)\]
 
 **Variational Depth Search in ResNets**\\
