@@ -9,6 +9,9 @@ My most recent talks, together with slides, are found below.
 
 ## 2021
 
+**An Introduction to PAC-Bayes**\\
+Machine Learning Reading Group Talk at the Cambridge University Engineering Department, UK\\
+\[[Link](https://talks.cam.ac.uk/talk/index/157393)\], \[[Slides](assets/slides/pac_bayes_reading_group.pdf)\]
 
 **Tractable Bayesian Deep Learning on Subnetworks**\\
 Seminar at the UCL Centre for Inverse Problems in Imaging\\
