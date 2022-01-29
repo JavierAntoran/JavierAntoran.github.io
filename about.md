@@ -5,10 +5,9 @@ permalink: /about/
 redirect_from: "/"
 ---
 
-I am a PhD student in Machine Learning at the [University of Cambridge](http://mlg.eng.cam.ac.uk/?portfolio=javier-antoran) under the supervision of Dr. José Miguel Hernández-Lobato. I'm interested in Bayesian deep learning, representation learning, uncertainty in machine learning and information theory. I graduated from the University of Zaragoza in 2018 with an honorary distinction ("premio extraordinario") in Telecommunications Engineering (EE/CS). I was awarded an MPhil in Machine Learning with distinction by the University of Cambridge in 2019. I also do freelance engineering consulting and am a co-founder of [arisetech.es](http://arisetech.es). Bellow are links to some of my recent work.
+I am a PhD student in Machine Learning at the [University of Cambridge](http://mlg.eng.cam.ac.uk/?portfolio=javier-antoran) under the supervision of Dr. José Miguel Hernández-Lobato. My research interests span probabilistic modelling, approximate inference, information theory and their applications. My PhD reseach focusses on Bayesian deep learning methods. I graduated from the University of Zaragoza in 2018 with an honorary distinction ("premio extraordinario") in Telecommunications Engineering (EE/CS). I was awarded an MPhil in Machine Learning with distinction by the University of Cambridge in 2019. I also do freelance engineering consulting and am a co-founder of [arisetech.es](http://arisetech.es). Bellow are links to some of my recent work.
 
 ## 2021
-
 
 **A Probabilistic Deep Image Prior over Image Space**\\
 **J. Antorán<sup>\*</sup>**, R. Barbano<sup>\*</sup>, J. M. Hernández-Lobato and B. Jin.\\
