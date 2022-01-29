@@ -7,12 +7,34 @@ redirect_from: "/"
 
 I am a PhD student in Machine Learning at the [University of Cambridge](http://mlg.eng.cam.ac.uk/?portfolio=javier-antoran) under the supervision of Dr. José Miguel Hernández-Lobato. I'm interested in Bayesian deep learning, representation learning, uncertainty in machine learning and information theory. I graduated from the University of Zaragoza in 2018 with an honorary distinction ("premio extraordinario") in Telecommunications Engineering (EE/CS). I was awarded an MPhil in Machine Learning with distinction by the University of Cambridge in 2019. I also do freelance engineering consulting and am a co-founder of [arisetech.es](http://arisetech.es). Bellow are links to some of my recent work.
 
+## 2021
+
+
+**A Probabilistic Deep Image Prior over Image Space**\\
+**J. Antorán<sup>\*</sup>**, R. Barbano<sup>\*</sup>, J. M. Hernández-Lobato and B. Jin.\\
+*4th Symposium on Advances in Approximate Bayesian Inference (AABI).* 2021.\\
+\[[Paper](https://openreview.net/pdf?id=qtFPfwJWowM)\], \[[bibtex](assets/bibtex/barbabo2021probabilistic.bib)\]
+
+
+**Depth Uncertainty Networks for Active Learning**\\
+Chelseay Murray, J. U. Allingham, **J. Antorán** and J. M. Hernández-Lobato.\\
+*Bayesian Deep Learning Workshop at NeurIPS.* 2021.\\
+\[[Paper](https://arxiv.org/pdf/2112.06796)\], \[[bibtex](assets/bibtex/murray2021depth.bib)\]
+
+
+**Addressing Bias in Active Learning with Depth Uncertainty Networks... or Not**\\
+Chelseay Murray, J. U. Allingham, **J. Antorán** and J. M. Hernández-Lobato.\\
+*Contributed talk at I (Still) Can’t Believe It’s Not Better Workshop at NeurIPS.* 2021.\\
+\[[Paper](https://openreview.net/pdf?id=gVi-oIwRIks)\], \[[bibtex](assets/bibtex/murray2021active.bib)\]
+
 ## 2020
 
 **Bayesian Deep Learning via Subnetwork Inference**\\
-E. Daxberger, E. Nalisnick, J. U. Allingham, **J. Antorán** and J. M. Hernández-Lobato.\\
+E. Daxberger, **J. Antorán<sup>\*</sup>**, E. Nalisnick<sup>\*</sup>, J. U. Allingham<sup>\*</sup> and J. M. Hernández-Lobato.\\
+*Contributed talk at 3rd Symposium on
+Advances in Approximate Bayesian Inference (AABI)*, 2020.\\
 *38th International Conference on Machine Learning (ICML)*, 2021.\\
-\[[Paper](https://arxiv.org/abs/2010.14689)\], \[[Poster](assets/pdf/Subnetwork_Inference_BDL_Poster.pdf)\]
+\[[Paper](https://arxiv.org/abs/2010.14689)\], \[[Poster](assets/pdf/Subnetwork_Inference_BDL_Poster.pdf)\] \[[bibtex](assets/bibtex/daxberger21subnetwork.bib)\], \[[code](https://github.com/edaxberger/subnetwork-inference)\] \[[blog](https://mlg-blog.com/2021/07/21/subnetwork-inference.html)\]
 
 **Uncertainty as a Form of Transparency: Measuring, Communicating, and Using Uncertainty**\\
 U. B., **J. Antorán**, Y. Z., Q. V. L., P. S., R. F., G. G. M., R. K., J. S., O. T., L. N., R. C., A. W. and A. X.\\
