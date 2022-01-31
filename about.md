@@ -9,10 +9,15 @@ I am a PhD student in Machine Learning at the [University of Cambridge](http://m
 
 ## 2021
 
+**Linearised Laplace Inference in Networks with Normalisation Layers and the Neural g-Prior**\\
+**J. Antorán**, J.U. Allingham, D. Janz, E. Daxberger, E. Nalisnick and J. M. Hernández-Lobato.\\
+*Contributed talk at 4th Symposium on Advances in Approximate Bayesian Inference (AABI).* 2021.\\
+\[[Paper](https://openreview.net/pdf?id=uUH8x-h9zdB)\], \[[bibtex](assets/bibtex/antoran2022linearised.bib)\]
+
 **A Probabilistic Deep Image Prior over Image Space**\\
 **J. Antorán<sup>\*</sup>**, R. Barbano<sup>\*</sup>, J. M. Hernández-Lobato and B. Jin.\\
 *4th Symposium on Advances in Approximate Bayesian Inference (AABI).* 2021.\\
-\[[Paper](https://openreview.net/pdf?id=qtFPfwJWowM)\], \[[bibtex](assets/bibtex/barbabo2021probabilistic.bib)\]
+\[[Paper](https://openreview.net/pdf?id=qtFPfwJWowM)\], \[[bibtex](assets/bibtex/barbabo2022probabilistic.bib)\]
 
 
 **Depth Uncertainty Networks for Active Learning**\\
