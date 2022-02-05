@@ -7,6 +7,12 @@ permalink: /talks/
 
 My most recent talks, together with slides, are found below.
 
+## 2022
+
+**Linearised Laplace Inference in Networks with Normalisation Layers and the Neural g-Prior**\\
+Contributed talk at 4th Symposium on Advances in Approximate Bayesian Inference (AABI) \\
+\[[Link](http://approximateinference.org/schedule/)\], \[[Slides](assets/slides/AABI_laplace_talk.pdf)\]
+
 ## 2021
 
 **An Introduction to PAC-Bayes**\\

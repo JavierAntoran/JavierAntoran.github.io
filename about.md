@@ -12,7 +12,7 @@ I am a PhD student in Machine Learning at the [University of Cambridge](http://m
 **Linearised Laplace Inference in Networks with Normalisation Layers and the Neural g-Prior**\\
 **J. Antorán**, J.U. Allingham, D. Janz, E. Daxberger, E. Nalisnick and J. M. Hernández-Lobato.\\
 *Contributed talk at 4th Symposium on Advances in Approximate Bayesian Inference (AABI).* 2022.\\
-\[[Paper](https://openreview.net/pdf?id=uUH8x-h9zdB)\], \[[bibtex](assets/bibtex/antoran2022linearised.bib)\]
+\[[Paper](https://openreview.net/pdf?id=uUH8x-h9zdB)\], \[[Poster](assets/pdf/Laplace_AABI_poster.pdf)\], \[[bibtex](assets/bibtex/antoran2022linearised.bib)\]
 
 **A Probabilistic Deep Image Prior over Image Space**\\
 **J. Antorán<sup>\*</sup>**, R. Barbano<sup>\*</sup>, J. M. Hernández-Lobato and B. Jin.\\
@@ -38,7 +38,7 @@ E. Daxberger, **J. Antorán<sup>\*</sup>**, E. Nalisnick<sup>\*</sup>, J. U. All
 *Contributed talk at 3rd Symposium on
 Advances in Approximate Bayesian Inference (AABI)*, 2020.\\
 *38th International Conference on Machine Learning (ICML)*, 2021.\\
-\[[Paper](https://arxiv.org/abs/2010.14689)\], \[[Poster](assets/pdf/Subnetwork_Inference_BDL_Poster.pdf)\] \[[bibtex](assets/bibtex/daxberger21subnetwork.bib)\], \[[code](https://github.com/edaxberger/subnetwork-inference)\] \[[blog](https://mlg-blog.com/2021/07/21/subnetwork-inference.html)\]
+\[[Paper](https://arxiv.org/abs/2010.14689)\], \[[Poster](assets/pdf/Subnetwork_Inference_BDL_Poster.pdf)\], \[[bibtex](assets/bibtex/daxberger21subnetwork.bib)\], \[[code](https://github.com/edaxberger/subnetwork-inference)\] \[[blog](https://mlg-blog.com/2021/07/21/subnetwork-inference.html)\]
 
 **Uncertainty as a Form of Transparency: Measuring, Communicating, and Using Uncertainty**\\
 U. B., **J. Antorán**, Y. Z., Q. V. L., P. S., R. F., G. G. M., R. K., J. S., O. T., L. N., R. C., A. W. and A. X.\\
