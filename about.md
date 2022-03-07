@@ -9,6 +9,11 @@ I am a PhD student in Machine Learning at the [University of Cambridge](http://m
 
 ## 2022
 
+**A Probabilistic Deep Image Prior for Computational Tomography**\\
+**J. Antorán<sup>\*</sup>**, R. Barbano<sup>\*</sup>, J. Leuschner, J. M. Hernández-Lobato, B. Jin \\
+*Arxiv preprint.* 2022.\\
+\[[Paper](https://arxiv.org/pdf/2203.00479.pdf)\]
+
 
 **Deep End-to-end Causal Inference**\\
 **J. Antorán<sup>\*</sup>**, T. G.<sup>\*</sup>, A. F.<sup>\*</sup>, W. G., C. M., E. K., A. S., A. L., M. K., N. P., M. A., C. Z.\\
