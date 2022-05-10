@@ -43,7 +43,8 @@ Chelseay Murray, J. U. Allingham, **J. Antorán** and J. M. Hernández-Lobato.\\
 **Addressing Bias in Active Learning with Depth Uncertainty Networks... or Not**\\
 Chelseay Murray, J. U. Allingham, **J. Antorán** and J. M. Hernández-Lobato.\\
 *Contributed talk at I (Still) Can’t Believe It’s Not Better Workshop at NeurIPS.* 2021.\\
-\[[Paper](https://openreview.net/pdf?id=gVi-oIwRIks)\], \[[bibtex](assets/bibtex/murray2021active.bib)\]
+*Proceedings of Machine Learning Research, Volume 163.* 2022
+\[[Paper](https://proceedings.mlr.press/v163/murray22a.html)\], \[[bibtex](assets/bibtex/murray2021active.bib)\]
 
 ## 2020
 
