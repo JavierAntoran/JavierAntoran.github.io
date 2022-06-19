@@ -9,6 +9,16 @@ My most recent talks, together with slides, are found below.
 
 ## 2022
 
+**Developments in Inference with Linearised Neural Networks**\\
+Mathematics of Deep Learning Reading Group at the Centre for Mathematical Sciences, University of Cambridge \\
+\[[Slides](assets/slides/Math_dep_reading_group.pdf)\]
+
+
+**Bayesian Deep Learning with Linearised Neural Networks**\\
+Talk at the Alto University and ELLIS unit Helsinki Seminar on Advances in Probabilistic Machine Learning \\
+\[[Link](https://aaltoml.github.io/apml/)\], \[[Slides](assets/slides/Aalto_Laplace_35min.pdf)\]
+
+
 **Linearised Laplace Inference in Networks with Normalisation Layers and the Neural g-Prior**\\
 Contributed talk at 4th Symposium on Advances in Approximate Bayesian Inference (AABI) \\
 \[[Link](http://approximateinference.org/schedule/)\], \[[Slides](assets/slides/AABI_laplace_talk.pdf)\]
