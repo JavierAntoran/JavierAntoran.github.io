@@ -9,6 +9,12 @@ I am a PhD student in Machine Learning at the [University of Cambridge](http://m
 
 ## 2022
 
+
+**Adapting the Linearised Laplace Model Evidence for Modern Deep Learning**\\
+**J. Antorán**, D. Janz<sup>\*</sup>, J.U. Allingham<sup>\*</sup>, E. Daxberger, R. Barbano, E. Nalisnick, J. M. Hernández-Lobato\\
+*39th International Conference on Machine Learning (ICML)*, 2022\\
+\[[Paper](https://arxiv.org/pdf/2206.08900.pdf)\]
+
 **A Probabilistic Deep Image Prior for Computational Tomography**\\
 **J. Antorán<sup>\*</sup>**, R. Barbano<sup>\*</sup>, J. Leuschner, J. M. Hernández-Lobato, B. Jin \\
 *Arxiv preprint.* 2022.\\
