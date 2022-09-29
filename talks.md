@@ -9,6 +9,14 @@ My most recent talks, together with slides, are found below.
 
 ## 2022
 
+**Bayesian Inference**\\
+Talk at the 2022 Deep Learning indaba in Tunis
+\[[Link](https://deeplearningindaba.com/2022/indaba/programme/)\], \[[Slides](assets/slides/.pdf)\]
+
+**Adapting the Linearised Laplace Model Evidence for Modern Deep Learning**\\
+Spotlight talk at ICML 2022 in Baltimore, USA
+\[[Slides](assets/slides/IMCL_5min.pdf)\], \[[Video](https://slideslive.com/38983366/adapting-the-linearised-laplace-model-evidence-for-modern-deep-learning)\]
+
 **Developments in Inference with Linearised Neural Networks**\\
 Mathematics of Deep Learning Reading Group at the Centre for Mathematical Sciences, University of Cambridge \\
 \[[Slides](assets/slides/Math_dep_reading_group.pdf)\]

@@ -5,9 +5,21 @@ permalink: /about/
 redirect_from: "/"
 ---
 
-I am a PhD student in Machine Learning at the [University of Cambridge](http://mlg.eng.cam.ac.uk/?portfolio=javier-antoran) under the supervision of Dr. José Miguel Hernández-Lobato. My research interests span probabilistic modelling, approximate inference, information theory and their applications. My PhD reseach focusses on Bayesian deep learning methods. I graduated from the University of Zaragoza in 2018 with an honorary distinction ("premio extraordinario") in Telecommunications Engineering (EE/CS). I was awarded an MPhil in Machine Learning with distinction by the University of Cambridge in 2019. I also do freelance engineering consulting and am a co-founder of [arisetech.es](http://arisetech.es). Bellow are links to some of my recent work, where <sup>\*</sup> denotes equal contribution.
+
+
+<img align="center" src="/assets/other_images/profile.jpeg" alt="profile" width="200" hspace=”50” vspace=”50”>
+ 
+\\
+
+I am a final year PhD student in Probabilistic Machine Learning at the [University of Cambridge](https://www.cbl-cambridge.org/people/ja666) under the supervision of Dr. José Miguel Hernández-Lobato. My interests span probabilistic modelling, approximate inference, information theory and their applications. Specifically, PhD research focuses on performing probabilistic reasoning with neural network models. I graduated from the University of Zaragoza in 2018 with an honorary distinction ("premio extraordinario") in Telecommunications Engineering (EE/CS). I was awarded an MPhil in Machine Learning with distinction by the University of Cambridge in 2019. I also do freelance engineering consulting and am a co-founder of [arisetech.es](http://arisetech.es). Bellow are links to some of my recent work, where <sup>\*</sup> denotes equal contribution.
+
 
 ## 2022
+
+**Bayesian Experimental Design for Computed Tomography with the Linearised Deep Image Prior**\\
+R. Barbano<sup>\*</sup>, J. Leuschner<sup>\*</sup>, **J. Antorán**<sup>\*</sup>, B. Jin, J. M. Hernández-Lobato\\
+*Adaptive Experimental Design and Active Learning workshop at ICML*, 2022\\
+\[[Paper](https://arxiv.org/pdf/2207.05714.pdf)\]
 
 
 **Adapting the Linearised Laplace Model Evidence for Modern Deep Learning**\\
