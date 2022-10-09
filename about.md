@@ -9,7 +9,7 @@ redirect_from: "/"
 
 
 
-I am a final year PhD student in Probabilistic Machine Learning at the [University of Cambridge](https://www.cbl-cambridge.org/people/ja666) under the supervision of Dr. José Miguel Hernández-Lobato. My interests span probabilistic modelling, approximate inference, information theory and their applications. Specifically, PhD research focuses on performing probabilistic reasoning with neural network models. I graduated from the University of Zaragoza in 2018 with an honorary distinction ("premio extraordinario") in Telecommunications Engineering (EE/CS). I was awarded an MPhil in Machine Learning with distinction by the University of Cambridge in 2019. I also do freelance engineering consulting and am a co-founder of [arisetech.es](http://arisetech.es). Bellow are links to some of my recent work, where <sup>\*</sup> denotes equal contribution.
+I am a final year PhD student in Probabilistic Machine Learning at the [University of Cambridge](https://www.cbl-cambridge.org/people/ja666) under the supervision of Dr. José Miguel Hernández-Lobato. My interests span probabilistic modelling, approximate inference, information theory and their applications. Specifically, my PhD research focuses on performing probabilistic reasoning with neural network models. I graduated from the University of Zaragoza in 2018 with an honorary distinction ("premio extraordinario") in Telecommunications Engineering (EE/CS). I was awarded an MPhil in Machine Learning with distinction by the University of Cambridge in 2019. I also do freelance engineering consulting and am a co-founder of [arisetech.es](http://arisetech.es). Bellow are links to some of my recent work, where <sup>\*</sup> denotes equal contribution.
 
 
 ## 2022
