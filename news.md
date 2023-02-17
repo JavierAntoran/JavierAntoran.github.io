@@ -5,7 +5,14 @@ permalink: /news/
 # redirect_from: "/"
 ---
 
+## 2023
+
+#### February
+
+* I am back in Cambridge writing my PhD thesis and working on an exciting new project.
+
 ## 2022
+
 
 #### September
 

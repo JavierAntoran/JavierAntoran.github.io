@@ -12,7 +12,21 @@ redirect_from: "/"
 I am a final year PhD student in Probabilistic Machine Learning at the [University of Cambridge](https://www.cbl-cambridge.org/people/ja666) under the supervision of Dr. José Miguel Hernández-Lobato. My interests span probabilistic modelling, approximate inference, information theory and their applications. Specifically, my PhD research focuses on performing probabilistic reasoning with neural network models. I graduated from the University of Zaragoza in 2018 with an honorary distinction ("premio extraordinario") in Telecommunications Engineering (EE/CS). I was awarded an MPhil in Machine Learning with distinction by the University of Cambridge in 2019. I also do freelance engineering consulting and am a co-founder of [arisetech.es](http://arisetech.es). Bellow are links to some of my recent work, where <sup>\*</sup> denotes equal contribution.
 
 
+## 2023
+
+**Sampling-based inference for large linear models, with application to linearised Laplace**\\
+**J. Antorán**<sup>\*</sup>, S. Padhy<sup>\*</sup>, R. Barbano, E. Nalisnick, D. Janz, J. M. Hernández-Lobato\\
+*Eleventh International Conference on Learning Representations (ICLR)*, 2023\\
+\[[Paper](https://arxiv.org/pdf/2210.04994.pdf)\]
+
+
 ## 2022
+
+
+**Learning Deep Generative Models with Invariance under Symmetry Transformations**\\
+J. U. Allingham, **Javier Antoran**, S. Padhy, E. Nalisnick, J. M. Hernández-Lobato\\
+*NeurIPS Workshop on Symmetry and Geometry in Neural Representations*, 2022\\
+\[[Paper](https://openreview.net/pdf?id=Ff1N3et1IV)\]
 
 **Bayesian Experimental Design for Computed Tomography with the Linearised Deep Image Prior**\\
 R. Barbano<sup>\*</sup>, J. Leuschner<sup>\*</sup>, **J. Antorán**<sup>\*</sup>, B. Jin, J. M. Hernández-Lobato\\
