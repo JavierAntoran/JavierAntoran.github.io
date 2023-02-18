@@ -39,7 +39,7 @@ R. Barbano<sup>\*</sup>, J. Leuschner<sup>\*</sup>, **J. Antorán**<sup>\*</sup>
 *39th International Conference on Machine Learning (ICML)*, 2022\\
 \[[Paper](https://arxiv.org/pdf/2206.08900.pdf)\]
 
-**A Probabilistic Deep Image Prior for Computational Tomography**\\
+**Uncertainty Estimation for Computed Tomography with a Linearised Deep Image Prior**\\
 **J. Antorán<sup>\*</sup>**, R. Barbano<sup>\*</sup>, J. Leuschner, J. M. Hernández-Lobato, B. Jin \\
 *Arxiv preprint.* 2022.\\
 \[[Paper](https://arxiv.org/pdf/2203.00479.pdf)\]
