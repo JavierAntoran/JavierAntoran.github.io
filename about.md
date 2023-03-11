@@ -14,6 +14,11 @@ I am a final year PhD student in Probabilistic Machine Learning at the [Universi
 
 ## 2023
 
+**Fast and Painless Image Reconstruction in Deep Image Prior Subspaces**\\
+R. Barbano, **J. Antorán**, J. Leuschner, J. M. Hernández-Lobato, Ž. Kereta, B. Jin\\
+*Arxiv preprint.*, 2023\\
+\[[Paper](https://arxiv.org/pdf/2302.10279.pdf)\]
+
 **Sampling-based inference for large linear models, with application to linearised Laplace**\\
 **J. Antorán**<sup>\*</sup>, S. Padhy<sup>\*</sup>, R. Barbano, E. Nalisnick, D. Janz, J. M. Hernández-Lobato\\
 *Eleventh International Conference on Learning Representations (ICLR)*, 2023\\
