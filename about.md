@@ -16,7 +16,7 @@ I am a final year PhD student in Probabilistic Machine Learning at the [Universi
 
 **Fast and Painless Image Reconstruction in Deep Image Prior Subspaces**\\
 R. Barbano, **J. Antorán**, J. Leuschner, J. M. Hernández-Lobato, Ž. Kereta, B. Jin\\
-*Arxiv preprint.*, 2023\\
+*11th Applied Inverse Problems Conference (AIP2023).*, 2023\\
 \[[Paper](https://arxiv.org/pdf/2302.10279.pdf)\]
 
 **Sampling-based inference for large linear models, with application to linearised Laplace**\\

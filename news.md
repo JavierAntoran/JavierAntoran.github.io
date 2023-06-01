@@ -9,6 +9,10 @@ permalink: /news/
 
 #### February
 
+* I am co-organising the [5th Symposium on Advances in Approximate Bayesian Inference](http://approximateinference.org) 
+(AABI 2023) which will be co-located with ICML in Honolulu Hawaii, on Sunday July 23rd, 2023.
+
+
 * I am back in Cambridge writing my PhD thesis and working on an exciting new project.
 
 ## 2022
