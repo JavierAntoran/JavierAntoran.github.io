@@ -7,6 +7,20 @@ permalink: /news/
 
 ## 2023
 
+#### Upcoming
+
+* I will again be speaking about Bayesian inference at the 2023 [Deep Learning Indaba](https://deeplearningindaba.com/2023/) in Ghana from the 3rd to 9th of September.
+
+* I will again be joining Google Research as a research intern in the Cerebra team in September!
+
+* I will be speaking at [Generative models and uncertainty quantification](https://genu.ai/2023/) in Copenhagen, September 20-21, 2023
+
+#### July
+
+* I will be at ICML 2023 next week and at the [5th Symposium on Advances in Approximate Bayesian Inference](http://approximateinference.org) (AABI 2023) which will be co-located with ICML in Honolulu Hawaii, on Sunday July 23rd, 2023. I will be presenting the papers 
+
+* The [I Cant Believe Its Not Better](http://icbinb.cc) movement's 2023 workshop proposal, for which I acted as an advisor, has been accepted to NeurIPS.
+
 #### February
 
 * I am co-organising the [5th Symposium on Advances in Approximate Bayesian Inference](http://approximateinference.org) 

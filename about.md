@@ -9,10 +9,20 @@ redirect_from: "/"
 
 
 
-I am a final year PhD student in Probabilistic Machine Learning at the [University of Cambridge](https://www.cbl-cambridge.org/people/ja666) under the supervision of Dr. José Miguel Hernández-Lobato. My interests span probabilistic modelling, approximate inference, information theory and their applications. Specifically, my PhD research focuses on performing probabilistic reasoning with neural network models. I graduated from the University of Zaragoza in 2018 with an honorary distinction ("premio extraordinario") in Telecommunications Engineering (EE/CS). I was awarded an MPhil in Machine Learning with distinction by the University of Cambridge in 2019. I also do freelance engineering consulting and am a co-founder of [arisetech.es](http://arisetech.es). Bellow are links to some of my recent work, where <sup>\*</sup> denotes equal contribution.
+I am a final year PhD student and an incoming research fellow in Probabilistic Machine Learning at the [University of Cambridge](https://www.cbl-cambridge.org/people/ja666). My interests span probabilistic modelling, approximate inference, information theory and their applications. My PhD research focused on performing probabilistic reasoning with neural network models. I graduated from the University of Zaragoza in 2018 with an honorary distinction ("premio extraordinario") in Telecommunications Engineering (EE/CS). I was awarded an MPhil in Machine Learning with distinction by the University of Cambridge in 2019. I also do freelance engineering consulting and am a co-founder of [arisetech.es](http://arisetech.es). Bellow are links to some of my recent work, where <sup>\*</sup> denotes equal contribution.
 
 
 ## 2023
+
+**Sampling from Gaussian Process Posteriors using Stochastic Gradient Descent**\\
+**J. Antorán**<sup>\*</sup>, J. A. Lin<sup>\*</sup>, S. Padhy<sup>\*</sup>, D. Janz, J. M. Hernández-Lobato, A. Terenin\\
+*Preprint*\\
+\[[Paper](https://arxiv.org/pdf/2306.11589.pdf)\]
+
+**Online Laplace Model Selection Revisited**\\
+J. A. Lin, **J. Antorán**, J. M. Hernández-Lobato\\
+*Contributed talk at 5th Symposium on Advances in Approximate Bayesian Inference (AABI).* 2023.\\
+\[[Paper](https://arxiv.org/pdf/2307.06093.pdf)\]
 
 **Fast and Painless Image Reconstruction in Deep Image Prior Subspaces**\\
 R. Barbano, **J. Antorán**, J. Leuschner, J. M. Hernández-Lobato, Ž. Kereta, B. Jin\\

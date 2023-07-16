@@ -10,6 +10,11 @@ My most recent talks, together with slides, are found below.
 ## 2023
 
 **The Linearised Laplace Approximation**
+Research Talk at the Cambridge University Engineering Department, UK\\
+\[[Slides](assets/slides/GP_talk.pdf)\]
+
+
+**The Linearised Laplace Approximation**
 Machine Learning Reading Group Talk at the Cambridge University Engineering Department, UK\\
 \[[Link](http://talks.cam.ac.uk/talk/index/197725)\], \[[Slides](assets/slides/Laplace_reading.pdf)\]
 
