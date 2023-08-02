@@ -9,7 +9,7 @@ permalink: /news/
 
 #### Upcoming
 
-* I will again be speaking about Bayesian inference at the 2023 [Deep Learning Indaba](https://deeplearningindaba.com/2023/) in Ghana from the 3rd to 9th of September.
+<!-- * I will again be speaking about Bayesian inference at the 2023 [Deep Learning Indaba](https://deeplearningindaba.com/2023/) in Ghana from the 3rd to 9th of September. -->
 
 * I will again be joining Google Research as a research intern in the Cerebra team in September!
 

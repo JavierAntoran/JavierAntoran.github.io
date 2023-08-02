@@ -9,7 +9,7 @@ My most recent talks, together with slides, are found below.
 
 ## 2023
 
-**The Linearised Laplace Approximation**
+**Sampling from Gaussian Process Posteriors using Stochastic Gradient Descent**
 Research Talk at the Cambridge University Engineering Department, UK\\
 \[[Slides](assets/slides/GP_talk.pdf)\]
 
