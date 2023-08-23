@@ -14,7 +14,7 @@ I am a final year PhD student and an incoming research fellow in Probabilistic M
 
 ## 2023
 
-**SE(3) Equivariant Augmented Coupling Flows**
+**SE(3) Equivariant Augmented Coupling Flows**\\
 Laurence I. Midgley<sup>\*</sup>, Vincent Stimper<sup>\*</sup>, **Javier Antorán<sup>\*</sup>**, Emile Mathieu<sup>\*</sup>, B. Schölkopf, J. M. Hernández-Lobato\\
 *Preprint*\\
 \[[Paper](https://arxiv.org/abs/2308.10364)\]
