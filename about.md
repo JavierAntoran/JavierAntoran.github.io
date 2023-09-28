@@ -16,12 +16,12 @@ I am a final year PhD student and an incoming research fellow in Probabilistic M
 
 **SE(3) Equivariant Augmented Coupling Flows**\\
 Laurence I. Midgley<sup>\*</sup>, Vincent Stimper<sup>\*</sup>, **Javier Antorán<sup>\*</sup>**, Emile Mathieu<sup>\*</sup>, B. Schölkopf, J. M. Hernández-Lobato\\
-*Preprint*\\
+*Spotlight at Neural Information Processing Systems (NeurIPS), New Orleans, USA.* 2023.\\
 \[[Paper](https://arxiv.org/abs/2308.10364)\]
 
 **Sampling from Gaussian Process Posteriors using Stochastic Gradient Descent**\\
 **J. Antorán**<sup>\*</sup>, J. A. Lin<sup>\*</sup>, S. Padhy<sup>\*</sup>, D. Janz, J. M. Hernández-Lobato, A. Terenin\\
-*Preprint*\\
+*Oral presentation at Neural Information Processing Systems (NeurIPS), New Orleans, USA.* 2023.\\
 \[[Paper](https://arxiv.org/pdf/2306.11589.pdf)\]
 
 **Online Laplace Model Selection Revisited**\\
