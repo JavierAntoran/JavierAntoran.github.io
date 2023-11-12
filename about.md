@@ -14,6 +14,11 @@ I am a final year PhD student and an incoming research fellow in Probabilistic M
 
 ## 2023
 
+**Stochastic Gradient Descent for Gaussian Processes Done Right**\\
+**J. Antorán**<sup>\*</sup>, J. A. Lin<sup>\*</sup>, S. Padhy<sup>\*</sup>, A. Tripp, A. Terenin, C. Szepesvári, J. M. Hernández-Lobato, D. Janz\\
+*Arxiv preprint* 2023.\\
+\[[Paper](https://arxiv.org/abs/2310.20581)\]
+
 **SE(3) Equivariant Augmented Coupling Flows**\\
 Laurence I. Midgley<sup>\*</sup>, Vincent Stimper<sup>\*</sup>, **Javier Antorán<sup>\*</sup>**, Emile Mathieu<sup>\*</sup>, B. Schölkopf, J. M. Hernández-Lobato\\
 *Spotlight at Neural Information Processing Systems (NeurIPS), New Orleans, USA.* 2023.\\
