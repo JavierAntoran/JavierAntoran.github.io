@@ -9,14 +9,14 @@ redirect_from: "/"
 
 
 
-I am a final year PhD student and an incoming research fellow in Probabilistic Machine Learning at the [University of Cambridge](https://www.cbl-cambridge.org/people/ja666). My interests span probabilistic modelling, approximate inference, information theory and their applications. My PhD research focused on performing probabilistic reasoning with neural network models. I graduated from the University of Zaragoza in 2018 with an honorary distinction ("premio extraordinario") in Telecommunications Engineering (EE/CS). I was awarded an MPhil in Machine Learning with distinction by the University of Cambridge in 2019. I also do freelance engineering consulting and am a co-founder of [arisetech.es](http://arisetech.es). Bellow are links to some of my recent work, where <sup>\*</sup> denotes equal contribution.
+I am an incoming research fellow in Probabilistic Machine Learning and Molecular Modelling at the [University of Cambridge](https://www.cbl-cambridge.org/people/ja666). My interests span generative models applied to molecular modelling, probabilistic modelling, approximate inference and information theory. My PhD research focused on scalable probabilistic reasoning with neural network models. I graduated from the University of Zaragoza in 2018 with an honorary distinction ("premio extraordinario") in Telecommunications Engineering (EE/CS). I was awarded an MPhil in Machine Learning with distinction by the University of Cambridge in 2019. I also do freelance engineering consulting and am a co-founder of [arisetech.es](http://arisetech.es). Bellow are links to some of my recent work, where <sup>\*</sup> denotes equal contribution.
 
 
 ## 2023
 
 **Stochastic Gradient Descent for Gaussian Processes Done Right**\\
 **J. Antorán**<sup>\*</sup>, J. A. Lin<sup>\*</sup>, S. Padhy<sup>\*</sup>, A. Tripp, A. Terenin, C. Szepesvári, J. M. Hernández-Lobato, D. Janz\\
-*Arxiv preprint* 2023.\\
+`*Arxiv preprint* 2023.\\
 \[[Paper](https://arxiv.org/abs/2310.20581)\]
 
 **SE(3) Equivariant Augmented Coupling Flows**\\
@@ -66,7 +66,7 @@ R. Barbano<sup>\*</sup>, J. Leuschner<sup>\*</sup>, **J. Antorán**<sup>\*</sup>
 
 **Uncertainty Estimation for Computed Tomography with a Linearised Deep Image Prior**\\
 **J. Antorán<sup>\*</sup>**, R. Barbano<sup>\*</sup>, J. Leuschner, J. M. Hernández-Lobato, B. Jin \\
-*Arxiv preprint.* 2022.\\
+*Transactions on Machine Learning Research* 12/2023.\\
 \[[Paper](https://arxiv.org/pdf/2203.00479.pdf)\]
 
 
