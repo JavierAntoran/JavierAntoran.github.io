@@ -13,6 +13,8 @@ permalink: /news/
 
 #### January
 
+* I am once again organising the [Symposium on Advances in Approximate Bayesian Inference](http://approximateinference.org) (AABI 2024), this time as programme chair.
+
 * After a great time at Google, I returned to CBL as a Research Fellow.
 
 ## 2023
