@@ -5,11 +5,18 @@ permalink: /news/
 # redirect_from: "/"
 ---
 
+## 2024
+
+#### March
+
+* Am visiting Scott W. Linderman at the University of Stanford. 
+
+#### January
+
+* After a great time at Google, I returned to CBL as a Research Fellow.
+
 ## 2023
 
-#### Upcoming
-
-I will be returning to CBL as a Research Fellow in January.
 
 #### September
 

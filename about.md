@@ -11,12 +11,22 @@ redirect_from: "/"
 
 I am an incoming research fellow in Probabilistic Machine Learning and Molecular Modelling at the [University of Cambridge](https://www.cbl-cambridge.org/people/ja666). My interests span generative models applied to molecular modelling, probabilistic modelling, approximate inference and information theory. My PhD research focused on scalable probabilistic reasoning with neural network models. I graduated from the University of Zaragoza in 2018 with an honorary distinction ("premio extraordinario") in Telecommunications Engineering (EE/CS). I was awarded an MPhil in Machine Learning with distinction by the University of Cambridge in 2019. I also do freelance engineering consulting and am a co-founder of [arisetech.es](http://arisetech.es). Bellow are links to some of my recent work, where <sup>\*</sup> denotes equal contribution.
 
+## 2024
+
+**PhD Thesis: Scalable Bayesian Inference in the Era of Deep Learning: From Gaussian Processes to Deep Neural Networks**\\
+**Javier Antorán**\\
+\[[Thesis](https://arxiv.org/abs/2404.19157)\]
+
+**A Generative Model of Symmetry Transformations**\\
+J. U. Allingham, B. K. Mlodozeniec, S. Padhy, **J. Antorán**, D. Krueger, R. E. Turner, E. Nalisnick, J. M. Hernández-Lobato\\
+*Preprint*, 2024\\
+\[[Paper](https://arxiv.org/abs/2403.01946)\]
 
 ## 2023
 
 **Stochastic Gradient Descent for Gaussian Processes Done Right**\\
 **J. Antorán**<sup>\*</sup>, J. A. Lin<sup>\*</sup>, S. Padhy<sup>\*</sup>, A. Tripp, A. Terenin, C. Szepesvári, J. M. Hernández-Lobato, D. Janz\\
-`*Arxiv preprint* 2023.\\
+*Twelfth International Conference on Learning Representations (ICLR)*, 2024\\
 \[[Paper](https://arxiv.org/abs/2310.20581)\]
 
 **SE(3) Equivariant Augmented Coupling Flows**\\
