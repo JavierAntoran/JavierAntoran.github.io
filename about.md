@@ -13,8 +13,8 @@ I am an incoming research fellow in Probabilistic Machine Learning and Molecular
 
 ## 2024
 
-**PhD Thesis: Scalable Bayesian Inference in the Era of Deep Learning: From Gaussian Processes to Deep Neural Networks**\\
-**Javier Antorán**\\
+**PhD Thesis:** Scalable Bayesian Inference in the Era of Deep Learning: From Gaussian Processes to Deep Neural Networks\\
+Javier Antorán\\
 \[[Thesis](https://arxiv.org/abs/2404.19157)\]
 
 **A Generative Model of Symmetry Transformations**\\
