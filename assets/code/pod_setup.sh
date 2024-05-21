@@ -161,5 +161,5 @@ cp ~/slice_install.sh ~/nfs_share/
 
 cd ~
 chmod +x ~/nfs_share/slice_install.sh
-./podrun -i ~/nfs_share/slice_install.sh $wandb_key $WORKDIR
+./podrun -i ~/nfs_share/slice_install.sh $wandb_key $WORKDIR $DEVICE_NAME
 

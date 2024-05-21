@@ -16,9 +16,15 @@ if [ -z "$2" ]; then
   echo "Usage: $0 <wandb_api_key> <workdir>"
   exit 1
 fi
+if [ -z "$3" ]; then
+  echo "Error: No device_name key provided."
+  echo "Usage: $0 <wandb_api_key> <workdir> <device_name>"
+  exit 1
+fi
 
 WANDB_API_KEY=$1
 WORKDIR=$2
+DEVICE_NAME=$3
 
 echo "Starting the setup of your Python coding environment..."
 
@@ -66,7 +72,8 @@ echo "WANDB API key set successfully."
 
 # Final environment setup
 echo "conda activate genmd" >> ~/.bashrc
-echo "echo Device is set to \$DEVICE_NAME" >> ~/.bashrc
+echo "echo Device is set to $DEVICE_NAME" 
+echo "export DEVICE_NAME=$DEVICE_NAME" >> ~/.bashrc
 
 echo "export PYTHONPATH=$PWD" >> ~/.bashrc
 
