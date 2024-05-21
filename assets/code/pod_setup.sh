@@ -25,10 +25,10 @@ IFS=';' read -ra ADDR <<< "$TPU_INFO"
 FIRST_IP=${ADDR[0]}
 
 # Extract the first three sections of the first IP address for SSH config
-INTERNAL_IP_PREFIX=$(echo $FIRST_IP | cut -d '.' -f 1-3)
+INTERNAL_IP_PREFIX=$(echo $FIRST_IP | cut -d '.' -f 1)
 
 # Generate SSH configuration
-SSH_CONFIG="Host $INTERNAL_IP_PREFIX.* 127.0.0.1\n   StrictHostKeyChecking no\n   UserKnownHostsFile /dev/null\n   LogLevel ERROR"
+SSH_CONFIG="Host $INTERNAL_IP_PREFIX.*.*.* 127.0.0.1\n   StrictHostKeyChecking no\n   UserKnownHostsFile /dev/null\n   LogLevel ERROR"
 
 # Append to .ssh/config, creating the directory and file if they don't exist
 mkdir -p ~/.ssh
@@ -99,7 +99,7 @@ echo "NFS server and client installed."
 echo "Adding entry to /etc/exports"
 
 # Add NFS export entry, using sudo
-NFS_LINE="/nfs_share  $INTERNAL_IP_PREFIX.0/24(rw,sync,no_subtree_check)"
+NFS_LINE="/nfs_share  $INTERNAL_IP_PREFIX.0.0.0/8(rw,sync,no_subtree_check)"
 echo "Adding NFS export entry to /etc/exports"
 echo $NFS_LINE | sudo tee -a /etc/exports
 
