@@ -72,8 +72,9 @@ echo "WANDB API key set successfully."
 
 # Final environment setup
 echo "conda activate genmd" >> ~/.bashrc
-echo "echo Device is set to $DEVICE_NAME" 
+
 echo "export DEVICE_NAME=$DEVICE_NAME" >> ~/.bashrc
+echo "echo Device is set to $DEVICE_NAME" >> ~/.bashrc
 
 echo "export PYTHONPATH=$PWD" >> ~/.bashrc
 
