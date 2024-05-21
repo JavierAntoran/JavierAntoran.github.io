@@ -157,7 +157,16 @@ source ~/.bashrc
 
 echo "Setup complete! Running installs on all devices..."
 
-cp ~/slice_install.sh ~/nfs_share/
+echo "Downloading additional scripts"
+
+wget https://javierantoran.github.io/assets/code/slice_install.sh
+wget https://javierantoran.github.io/assets/code/python_cleanup_remote.sh
+wget https://javierantoran.github.io/assets/code/python_cleanup.sh
+wget https://javierantoran.github.io/assets/code/rundiff.sh
+
+mv ~/slice_install.sh ~/nfs_share/
+mv ~/python_cleanup_remote.sh ~/nfs_share/
+mv ~/rundiff.sh ~/nfs_share/
 
 cd ~
 chmod +x ~/nfs_share/slice_install.sh
