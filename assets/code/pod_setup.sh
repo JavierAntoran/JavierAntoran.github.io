@@ -168,6 +168,10 @@ mv ~/slice_install.sh ~/nfs_share/
 mv ~/python_cleanup_remote.sh ~/nfs_share/
 mv ~/rundiff.sh ~/nfs_share/
 
+chmod +x ~/nfs_share/python_cleanup_remote.sh
+chmod +x ~/nfs_share/rundiff.sh
+chmod +x ~/python_cleanup.sh
+
 cd ~
 chmod +x ~/nfs_share/slice_install.sh
 ./podrun -i ~/nfs_share/slice_install.sh $wandb_key $WORKDIR $DEVICE_NAME
