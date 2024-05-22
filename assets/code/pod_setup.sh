@@ -158,7 +158,7 @@ source ~/.bashrc
 echo "Setup complete! Running installs on all devices..."
 
 echo "Downloading additional scripts"
-
+cd ~
 wget https://javierantoran.github.io/assets/code/slice_install.sh
 wget https://javierantoran.github.io/assets/code/python_cleanup_remote.sh
 wget https://javierantoran.github.io/assets/code/python_cleanup.sh
@@ -172,7 +172,7 @@ chmod +x ~/nfs_share/python_cleanup_remote.sh
 chmod +x ~/nfs_share/rundiff.sh
 chmod +x ~/python_cleanup.sh
 
-cd ~
+
 chmod +x ~/nfs_share/slice_install.sh
 ./podrun -i ~/nfs_share/slice_install.sh $wandb_key $WORKDIR $DEVICE_NAME
 
