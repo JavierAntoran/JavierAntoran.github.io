@@ -150,7 +150,7 @@ safe_install git-lfs
 git lfs install
 git clone git@hf.co:datasets/lollcat/water_data
 
-
+echo "export GIT_LFS_SKIP_SMUDGE=1" >> ~/.bashrc
 
 
 source ~/.bashrc
