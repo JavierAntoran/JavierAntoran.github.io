@@ -70,10 +70,10 @@ echo "Please enter your WANDB API key:"
 read wandb_key
 
 # Prompt for device name and set it
-echo "Please enter your device name (e.g., cpu, gpu, tpu_v3d):"
-read device_name
-echo "export DEVICE_NAME=$device_name" >> ~/.bashrc
-echo "Device name set as $device_name."
+# echo "Please enter your device name (e.g., cpu, gpu, tpu_v3d):"
+# read device_name
+echo "export DEVICE_NAME=$TPU_NAME" >> ~/.bashrc
+echo "Device name set as $TPU_NAME."
 
 echo "downloading podrun"
 wget https://raw.githubusercontent.com/ayaka14732/llama-2-jax/18e9625f7316271e4c0ad9dea233cfe23c400c9b/podrun
@@ -174,5 +174,5 @@ chmod +x ~/python_cleanup.sh
 
 
 chmod +x ~/nfs_share/slice_install.sh
-./podrun -i ~/nfs_share/slice_install.sh $wandb_key $WORKDIR $DEVICE_NAME
+./podrun -i ~/nfs_share/slice_install.sh $wandb_key $WORKDIR $TPU_NAME
 
