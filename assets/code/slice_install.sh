@@ -26,6 +26,8 @@ WANDB_API_KEY=$1
 WORKDIR=$2
 DEVICE_NAME=$3
 
+echo "ln -sf /nfs_share ~/nfs_share" >> ~/.bashrc
+
 echo "Starting the setup of your Python coding environment..."
 
 # Generate SSH key if it does not already exist

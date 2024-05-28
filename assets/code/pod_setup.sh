@@ -115,6 +115,7 @@ MOUNT_LINE="-- sudo mount $FIRST_IP:/nfs_share /nfs_share"
 
 
 
+
 echo "NFS Setup complete!"
 
 # Download data 
