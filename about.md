@@ -13,6 +13,11 @@ I am an incoming research fellow in Probabilistic Machine Learning and Molecular
 
 ## 2024
 
+**Improving Linear System Solvers for Hyperparameter Optimisation in Iterative Gaussian Processes**\\
+J. A. Lin, S. Padhy, B. Mlodozeniec, **J. Antorán**, J. M. Hernández-Lobato\\
+*Preprint*, 2024\\
+\[[Paper](https://arxiv.org/abs/2405.18457)\]
+
 **PhD Thesis:** Scalable Bayesian Inference in the Era of Deep Learning: From Gaussian Processes to Deep Neural Networks\\
 Javier Antorán\\
 \[[Thesis](https://arxiv.org/abs/2404.19157)\]
