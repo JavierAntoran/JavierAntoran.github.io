@@ -8,23 +8,35 @@
 # Check if wandb API key is provided
 if [ -z "$1" ]; then
   echo "Error: No WANDB API key provided."
-  echo "Usage: $0 <wandb_api_key> <workdir>"
+  echo "Usage: $0 <wandb_api_key> <workdir> <device_name> <wandb_entity> <wandb_project>"
   exit 1
 fi
 if [ -z "$2" ]; then
   echo "Error: No workdir key provided."
-  echo "Usage: $0 <wandb_api_key> <workdir>"
+  echo "Usage: $0 <wandb_api_key> <workdir> <device_name> <wandb_entity> <wandb_project>"
   exit 1
 fi
 if [ -z "$3" ]; then
   echo "Error: No device_name key provided."
-  echo "Usage: $0 <wandb_api_key> <workdir> <device_name>"
+  echo "Usage: $0 <wandb_api_key> <workdir> <device_name> <wandb_entity> <wandb_project>"
+  exit 1
+fi
+if [ -z "$4" ]; then
+  echo "Error: No device_name key provided."
+  echo "Usage: $0 <wandb_api_key> <workdir> <device_name> <wandb_entity> <wandb_project>"
+  exit 1
+fi
+if [ -z "$5" ]; then
+  echo "Error: No device_name key provided."
+  echo "Usage: $0 <wandb_api_key> <workdir> <device_name> <wandb_entity> <wandb_project>"
   exit 1
 fi
 
 WANDB_API_KEY=$1
 WORKDIR=$2
 DEVICE_NAME=$3
+WANDB_ENTITY=$4
+WANDB_PROJECT=$5
 
 # echo "ln -sf /nfs_share ~/nfs_share" >> ~/.bashrc
 
@@ -68,9 +80,14 @@ pip install -r requirements.txt
 # Install the current directory package in editable mode
 pip install -e .
 
-# Set WANDB API key
+# Set WANDB API key and entity and project
 echo "export WANDB_API_KEY=$WANDB_API_KEY" >> ~/.bashrc
-echo "WANDB API key set successfully."
+echo "export WANDB_ENTITY=$WANDB_ENTITY" >> ~/.bashrc
+echo "export WANDB_PROJECT=$WANDB_PROJECT" >> ~/.bashrc
+echo "WANDB API key, entity and project set successfully."
+
+
+
 
 # Final environment setup
 echo "conda activate genmd" >> ~/.bashrc

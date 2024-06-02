@@ -67,7 +67,16 @@ read -p "Press ENTER once you have uploaded the SSH key to continue with the set
 
 # Set WANDB API key
 echo "Please enter your WANDB API key:"
-read wandb_key
+read WANDB_KEY
+
+echo "Please enter your WANDB entity:"
+read WANDB_ENTITY
+
+echo "Please enter your WANDB project:"
+read WANDB_PROJECT
+
+
+
 
 # Prompt for device name and set it
 # echo "Please enter your device name (e.g., cpu, gpu, tpu_v3d):"
@@ -175,5 +184,5 @@ chmod +x ~/python_cleanup.sh
 
 
 chmod +x ~/nfs_share/slice_install.sh
-./podrun -i ~/nfs_share/slice_install.sh $wandb_key $WORKDIR $TPU_NAME
+./podrun -i ~/nfs_share/slice_install.sh $WANDB_KEY $WORKDIR $TPU_NAME $WANDB_ENTITY $WANDB_PROJECT
 
