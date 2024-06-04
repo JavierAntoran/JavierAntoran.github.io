@@ -24,6 +24,8 @@ IFS=';' read -ra ADDR <<< "$TPU_INFO"
 # Extract the first IP address
 FIRST_IP=${ADDR[0]}
 
+echo "export FIRST_IP=$FIRST_IP" >> ~/.bashrc
+
 # Extract the first three sections of the first IP address for SSH config
 INTERNAL_IP_PREFIX=$(echo $FIRST_IP | cut -d '.' -f 1)
 
@@ -173,6 +175,7 @@ wget https://javierantoran.github.io/assets/code/slice_install.sh
 wget https://javierantoran.github.io/assets/code/python_cleanup_remote.sh
 wget https://javierantoran.github.io/assets/code/python_cleanup.sh
 wget https://javierantoran.github.io/assets/code/rundiff.sh
+wget https://javierantoran.github.io/assets/code/nfs_restore.sh
 
 mv ~/slice_install.sh ~/nfs_share/
 mv ~/python_cleanup_remote.sh ~/nfs_share/
