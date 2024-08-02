@@ -9,7 +9,7 @@ redirect_from: "/"
 
 
 
-I am an incoming research fellow in Probabilistic Machine Learning and Molecular Modelling at the [University of Cambridge](https://www.cbl-cambridge.org/people/ja666). My interests span generative models applied to molecular modelling, probabilistic modelling, approximate inference and information theory. My PhD research focused on scalable probabilistic reasoning with neural network models. I graduated from the University of Zaragoza in 2018 with an honorary distinction ("premio extraordinario") in Telecommunications Engineering (EE/CS). I was awarded an MPhil in Machine Learning with distinction by the University of Cambridge in 2019. I also do freelance engineering consulting and am a co-founder of [arisetech.es](http://arisetech.es). Bellow are links to some of my recent work, where <sup>\*</sup> denotes equal contribution.
+I am a research fellow in Molecular Modelling and Probabilistic Machine Learning at the [University of Cambridge](https://www.cbl-cambridge.org/people/ja666). My interests span generative models applied to molecular modelling, probabilistic modelling, approximate inference and information theory. My PhD research focused on scalable probabilistic reasoning with neural network models. I graduated from the University of Zaragoza in 2018 with an honorary distinction ("premio extraordinario") in Telecommunications Engineering (EE/CS). I was awarded an MPhil in Machine Learning with distinction by the University of Cambridge in 2019. I also do freelance engineering consulting and am a co-founder of [arisetech.es](http://arisetech.es). Bellow are links to some of my recent work, where <sup>\*</sup> denotes equal contribution.
 
 ## 2024
 
