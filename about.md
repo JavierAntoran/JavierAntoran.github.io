@@ -9,13 +9,18 @@ redirect_from: "/"
 
 
 
-I am a research fellow in Molecular Modelling and Probabilistic Machine Learning at the [University of Cambridge](https://www.cbl-cambridge.org/people/ja666). My interests span generative models applied to molecular modelling, probabilistic modelling, approximate inference and information theory. My PhD research focused on scalable probabilistic reasoning with neural network models. I graduated from the University of Zaragoza in 2018 with an honorary distinction ("premio extraordinario") in Telecommunications Engineering (EE/CS). I was awarded an MPhil in Machine Learning with distinction by the University of Cambridge in 2019. I also do freelance engineering consulting and am a co-founder of [arisetech.es](http://arisetech.es). Bellow are links to some of my recent work, where <sup>\*</sup> denotes equal contribution.
+I am the Stokes research fellow in Molecular Modelling and Probabilistic Machine Learning at [Pembroke College](https://www.pem.cam.ac.uk/college/master-and-fellows/list-fellows/dr-javier-antoran), [University of Cambridge](https://www.cbl-cambridge.org/people/ja666). My interests span generative models applied to molecular modelling, probabilistic modelling, approximate inference and information theory. My PhD research focused on scalable probabilistic reasoning with neural network models. I graduated from the University of Zaragoza in 2018 with an honorary distinction ("premio extraordinario") in Telecommunications Engineering (EE/CS). I was awarded an MPhil in Machine Learning with distinction by the University of Cambridge in 2019. I also do freelance engineering consulting and am a co-founder of [arisetech.es](http://arisetech.es). Bellow are links to some of my recent work, where <sup>\*</sup> denotes equal contribution.
+
 
 ## 2024
+**Efficient and Unbiased Sampling of Boltzmann Distributions via Consistency Models**\\
+F. Zhang, J. He, L. I. Midgley, **J. Antorán**, J. M. Hernández-Lobato\\
+*NeurIPS Machine Learning and the Physical Sciences Workshop, Vancouver, CA.*, 2024\\
+\[[Paper](https://arxiv.org/abs/2409.07323)\]
 
 **Improving Linear System Solvers for Hyperparameter Optimisation in Iterative Gaussian Processes**\\
 J. A. Lin, S. Padhy, B. Mlodozeniec, **J. Antorán**, J. M. Hernández-Lobato\\
-*Preprint*, 2024\\
+*Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS), Vancouver, CA.*, 2024\\
 \[[Paper](https://arxiv.org/abs/2405.18457)\]
 
 **PhD Thesis:** Scalable Bayesian Inference in the Era of Deep Learning: From Gaussian Processes to Deep Neural Networks\\
@@ -24,7 +29,7 @@ Javier Antorán\\
 
 **A Generative Model of Symmetry Transformations**\\
 J. U. Allingham, B. K. Mlodozeniec, S. Padhy, **J. Antorán**, D. Krueger, R. E. Turner, E. Nalisnick, J. M. Hernández-Lobato\\
-*Preprint*, 2024\\
+*Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS), Vancouver, CA.*, 2024\\
 \[[Paper](https://arxiv.org/abs/2403.01946)\]
 
 ## 2023
@@ -88,7 +93,7 @@ R. Barbano<sup>\*</sup>, J. Leuschner<sup>\*</sup>, **J. Antorán**<sup>\*</sup>
 **Deep End-to-end Causal Inference**\\
 **J. Antorán<sup>\*</sup>**, T. G.<sup>\*</sup>, A. F.<sup>\*</sup>, W. G., C. M., E. K., A. S., A. L., M. K., N. P., M. A., C. Z.\\
 *Project conducted during an internship at Microsoft Research Cambridge.*\\
-*Arxiv preprint.* 2022.\\
+*Transactions on Machine Learning Research* 2022.\\
 \[[Paper](https://arxiv.org/pdf/2202.02195.pdf)\]
 
 ## 2021
